@@ -10,4 +10,5 @@ Changes
 - Nose changed to outline "draw as nose"
 - Eye group changed to -1 so the color won't mutate
 - New texture allows the purple color to mutate. It takes advantage of some weirdness related to transparent textures being altered by the texture underneath them. It can mutate to pink, light brown, yellow, light yellow, off white, grey, teal, and black.
+- Feet can mutate in base color (not variation/blue feet)
 - Original honker described as "HONKER: SLEEPY & DOGLIKE" in the Oddballz files so I've edited the breed's personality to be more sleepy and set dogginess to 100
